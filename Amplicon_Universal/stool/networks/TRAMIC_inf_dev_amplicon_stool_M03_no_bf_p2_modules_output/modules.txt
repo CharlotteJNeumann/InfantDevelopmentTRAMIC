@@ -1,0 +1,7 @@
+module_0	Hungatella	Bacteroides	Collinsella	Terrisporobacter	Parabacteroides
+module_1	Incertae_Sedis	Clostridium_sensu_stricto_1	Akkermansia
+module_2	Intestinibacter	Veillonella	Haemophilus
+module_3	Tyzzerella	Eggerthella	Streptococcus
+module_4	Rothia	Granulicatella
+module_5	Blautia	[Ruminococcus]_gnavus_group
+module_6	Bifidobacterium	Coprobacillus

@@ -1,0 +1,12 @@
+module_0	Faecalibacterium	Erysipelatoclostridium	Flavonifractor
+module_1	Hungatella	Coprobacillus	Sellimonas
+module_2	Escherichia-Shigella	Tyzzerella	Bifidobacterium
+module_3	Clostridium_sensu_stricto_1	Haemophilus	Rothia
+module_4	Blautia	[Ruminococcus]_gnavus_group	Epulopiscium
+module_5	Parabacteroides	Anaerosporobacter
+module_6	Lachnoclostridium	Streptococcus
+module_7	Megasphaera	Romboutsia
+module_8	Anaerostipes	Butyricicoccus
+module_9	Enterococcus	Veillonella
+module_10	Collinsella	Clostridioides
+module_11	Eggerthella	Bacteroides

@@ -1,0 +1,11 @@
+start time: 2024-01-24 18:16:55.640358
+SCNIC analysis type: module
+input correls: /home/agme/TRAMIC/TRAMIC_inf_dev_for_network/stool/02_subset_bf_no_bf/TRAMIC_inf_dev_amplicon_stool_M10_no_bf_p2_within/correls.txt
+output directory: /home/agme/TRAMIC/TRAMIC_inf_dev_for_network/stool/02_subset_bf_no_bf/TRAMIC_inf_dev_amplicon_stool_M10_no_bf_p2_modules_output
+number of modules created: 13
+input uncollapsed table: /home/agme/TRAMIC/TRAMIC_inf_dev_for_network/stool/02_subset_bf_no_bf/TRAMIC_inf_dev_amplicon_stool_M10_no_bf_p2.biom
+number of observations in output table: 47
+number of nodes: 37
+number of edges: 79
+finish time: 2024-01-24 18:16:55.692714
+elapsed time: 0:00:00.052356

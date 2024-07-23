@@ -1,0 +1,8 @@
+module_0	Granulicatella	Gemella	Rothia	Haemophilus	Fusobacterium	Streptococcus
+module_1	Sellimonas	Terrisporobacter	Coprobacillus	Hungatella
+module_2	Erysipelatoclostridium	Tyzzerella	Lachnoclostridium	Eggerthella
+module_3	Parabacteroides	Escherichia-Shigella	Lactobacillus
+module_4	Bifidobacterium	Enterococcus	Intestinibacter
+module_5	Romboutsia	Megasphaera
+module_6	Bacteroides	Collinsella
+module_7	[Ruminococcus]_gnavus_group	Veillonella

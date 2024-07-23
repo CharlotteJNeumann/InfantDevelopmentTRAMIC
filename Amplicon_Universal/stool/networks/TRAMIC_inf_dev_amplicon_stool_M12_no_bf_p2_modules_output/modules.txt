@@ -1,0 +1,14 @@
+module_0	Streptococcus	Veillonella	Granulicatella	Haemophilus
+module_1	Lactobacillus	Intestinibacter	Tyzzerella
+module_2	[Eubacterium]_coprostanoligenes_group	Akkermansia	[Eubacterium]_hallii_group
+module_3	Enterococcus	Eggerthella	Flavonifractor
+module_4	Bacteroides	Hungatella
+module_5	Butyricicoccus	Terrisporobacter
+module_6	Anaeroglobus	Actinobacillus
+module_7	Collinsella	Acidaminococcus
+module_8	Agathobacter	Parabacteroides
+module_9	Sellimonas	Escherichia-Shigella
+module_10	Erysipelatoclostridium	Lachnoclostridium
+module_11	Megasphaera	Sutterella
+module_12	Romboutsia	Blautia
+module_13	Anaerostipes	Coprobacillus

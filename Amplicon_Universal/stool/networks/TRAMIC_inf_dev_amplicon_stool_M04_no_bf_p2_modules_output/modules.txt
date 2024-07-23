@@ -1,0 +1,8 @@
+module_0	Lachnoclostridium	Haemophilus	Tyzzerella	Clostridium_sensu_stricto_1
+module_1	Parabacteroides	Eggerthella	Bacteroides
+module_2	Epulopiscium	[Ruminococcus]_gnavus_group	Incertae_Sedis
+module_3	Terrisporobacter	Coprobacillus	Collinsella
+module_4	Escherichia-Shigella	Intestinibacter
+module_5	Veillonella	Lactobacillus
+module_6	Hungatella	Enterococcus
+module_7	Bifidobacterium	Streptococcus

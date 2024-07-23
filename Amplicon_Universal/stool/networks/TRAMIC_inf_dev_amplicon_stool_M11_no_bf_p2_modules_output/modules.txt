@@ -1,0 +1,15 @@
+module_0	[Eubacterium]_coprostanoligenes_group	[Eubacterium]_hallii_group	Megasphaera	[Ruminococcus]_torques_group
+module_1	Lachnospira	Butyricicoccus	Gemella
+module_2	Veillonella	[Ruminococcus]_gnavus_group	Bacteroides
+module_3	Erysipelatoclostridium	Blautia	Intestinibacter
+module_4	Hungatella	Parabacteroides	Akkermansia
+module_5	Granulicatella	Haemophilus	Actinobacillus
+module_6	Faecalibacterium	Tyzzerella	Romboutsia
+module_7	Flavonifractor	Sellimonas
+module_8	Streptococcus	Clostridium_sensu_stricto_1
+module_9	Clostridioides	Sutterella
+module_10	Bifidobacterium	Enterococcus
+module_11	Rothia	Acidaminococcus
+module_12	Phascolarctobacterium	Ruminococcaceae_CAG-352
+module_13	Escherichia-Shigella	Lachnoclostridium
+module_14	Agathobacter	Terrisporobacter

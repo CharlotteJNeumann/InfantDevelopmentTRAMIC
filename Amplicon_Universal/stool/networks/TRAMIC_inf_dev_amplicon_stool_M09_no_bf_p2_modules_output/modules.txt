@@ -1,0 +1,11 @@
+module_0	Streptococcus	Bifidobacterium	Enterococcus	Blautia	Lactobacillus
+module_1	Dysgonomonas	Epulopiscium	Lachnospira
+module_2	Escherichia-Shigella	Granulicatella	Veillonella
+module_3	Parabacteroides	Eggerthella	Acidaminococcus
+module_4	Haemophilus	Clostridium_sensu_stricto_1	Butyricicoccus
+module_5	Faecalibacterium	Erysipelatoclostridium	Tyzzerella
+module_6	Collinsella	Bacteroides
+module_7	Intestinibacter	Coprobacillus
+module_8	Hungatella	Sellimonas
+module_9	Anaerostipes	[Ruminococcus]_gnavus_group
+module_10	Romboutsia	Flavonifractor

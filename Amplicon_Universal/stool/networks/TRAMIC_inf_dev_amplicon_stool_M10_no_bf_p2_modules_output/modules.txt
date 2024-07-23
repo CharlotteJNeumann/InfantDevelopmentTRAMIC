@@ -1,0 +1,13 @@
+module_0	Megasphaera	Sutterella	Lactobacillus	Clostridioides
+module_1	Bifidobacterium	Escherichia-Shigella	Veillonella
+module_2	Actinobacillus	Haemophilus	Granulicatella
+module_3	Bacteroides	Lachnoclostridium	[Ruminococcus]_gnavus_group
+module_4	Rothia	Butyricicoccus	Streptococcus
+module_5	Blautia	Sellimonas
+module_6	Intestinibacter	Parabacteroides
+module_7	Phascolarctobacterium	Hungatella
+module_8	Anaerostipes	Roseburia
+module_9	Tyzzerella	Flavonifractor
+module_10	Enterococcus	Romboutsia
+module_11	Coprobacillus	[Clostridium]_innocuum_group
+module_12	Faecalibacterium	Staphylococcus

@@ -1,0 +1,5 @@
+module_0	Romboutsia	Megasphaera	Clostridium_sensu_stricto_1	Rothia
+module_1	Parabacteroides	Veillonella	Bifidobacterium
+module_2	Haemophilus	Staphylococcus
+module_3	Streptococcus	Lactobacillus
+module_4	Enterococcus	Escherichia-Shigella

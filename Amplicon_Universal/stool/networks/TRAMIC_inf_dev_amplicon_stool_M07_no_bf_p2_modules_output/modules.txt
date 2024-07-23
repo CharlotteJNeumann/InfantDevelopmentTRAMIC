@@ -1,0 +1,9 @@
+module_0	Enterococcus	Parabacteroides	Terrisporobacter	Bacteroides	Coprobacillus	Collinsella
+module_1	Gemella	Rothia	Granulicatella	Haemophilus	Lactobacillus	Streptococcus
+module_2	Epulopiscium	Romboutsia	Anaerostipes	Lachnospira	Dysgonomonas
+module_3	Blautia	Eggerthella	Tyzzerella
+module_4	Erysipelatoclostridium	[Ruminococcus]_gnavus_group	Flavonifractor
+module_5	Lachnoclostridium	Intestinibacter	Anaerosporobacter
+module_6	Clostridium_sensu_stricto_1	Escherichia-Shigella
+module_7	Hungatella	Sellimonas
+module_8	Veillonella	Bifidobacterium
