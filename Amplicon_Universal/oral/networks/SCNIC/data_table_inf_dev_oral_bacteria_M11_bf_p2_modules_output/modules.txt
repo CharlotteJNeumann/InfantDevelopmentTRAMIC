@@ -1,0 +1,9 @@
+module_0	Lautropia	Moraxella	Aggregatibacter
+module_1	Gemella	Streptococcus	Granulicatella
+module_2	Prevotella	Actinomyces	Campylobacter
+module_3	Fluviicola	Cardiobacterium	Methanobrevibacter
+module_4	Alloprevotella	Porphyromonas	Fusobacterium
+module_5	Veillonella	Rothia
+module_6	Lachnoanaerobaculum	Neisseria
+module_7	Bergeyella	Haemophilus
+module_8	Abiotrophia	Corynebacterium

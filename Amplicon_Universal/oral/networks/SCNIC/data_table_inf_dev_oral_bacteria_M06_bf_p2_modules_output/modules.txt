@@ -1,0 +1,6 @@
+module_0	Staphylococcus	Actinobacillus	Paracoccus	Anaerococcus	Streptococcus
+module_1	Neisseria	Haemophilus
+module_2	Rothia	Actinomyces
+module_3	Prevotella	Fusobacterium
+module_4	Veillonella	Granulicatella
+module_5	Porphyromonas	Alloprevotella

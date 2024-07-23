@@ -1,0 +1,7 @@
+module_0	Atopobium	Streptococcus
+module_1	Alloprevotella	Leptotrichia
+module_2	Actinomyces	Rothia
+module_3	Gemella	Haemophilus
+module_4	Streptobacillus	Fusobacterium
+module_5	Neisseria	Porphyromonas
+module_6	Granulicatella	Veillonella

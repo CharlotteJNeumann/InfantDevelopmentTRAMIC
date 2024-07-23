@@ -1,0 +1,10 @@
+module_0	Actinomyces	Rothia	Atopobium
+module_1	Haemophilus	Porphyromonas	Neisseria
+module_2	Bifidobacterium	Lactobacillus
+module_3	Streptococcus	Granulicatella
+module_4	Actinobacillus	Fusobacterium
+module_5	Veillonella	Campylobacter
+module_6	Lachnoanaerobaculum	Capnocytophaga
+module_7	Bergeyella	Gemella
+module_8	Corynebacterium	Streptobacillus
+module_9	Lautropia	Abiotrophia

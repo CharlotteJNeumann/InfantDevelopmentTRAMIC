@@ -1,0 +1,11 @@
+start time: 2024-01-24 16:56:28.661311
+SCNIC analysis type: module
+input correls: /home/agme/TRAMIC/TRAMIC_inf_dev_for_network/oral/02_subset_bf_no_bf/data_table_inf_dev_oral_bacteria_M05_bf_p2_within/correls.txt
+output directory: /home/agme/TRAMIC/TRAMIC_inf_dev_for_network/oral/02_subset_bf_no_bf/data_table_inf_dev_oral_bacteria_M05_bf_p2_modules_output
+number of modules created: 7
+input uncollapsed table: /home/agme/TRAMIC/TRAMIC_inf_dev_for_network/oral/02_subset_bf_no_bf/data_table_inf_dev_oral_bacteria_M05_bf_p2.biom
+number of observations in output table: 41
+number of nodes: 14
+number of edges: 12
+finish time: 2024-01-24 16:56:28.689157
+elapsed time: 0:00:00.027846
