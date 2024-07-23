@@ -1,0 +1,13 @@
+	model summary
+Model:	MixedLM
+No. Observations:	292
+No. Groups:	30
+Min. group size:	7
+Max. group size:	11
+Mean group size:	9.7
+Dependent Variable:	Distance
+Method:	REML
+Scale:	0.0213
+Log-Likelihood:	117.5986
+Converged:	Yes
+	

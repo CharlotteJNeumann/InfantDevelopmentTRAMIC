@@ -1,0 +1,8 @@
+	Coef.	Std.Err.	z	P>|z|	[0.025	0.975]
+Intercept	14.078	8.259	1.705	0.088	-2.110	30.266
+breastfeeding[T.n]	-13.266	8.380	-1.583	0.113	-29.690	3.159
+breastfeeding[T.x]	-13.415	8.289	-1.618	0.106	-29.660	2.830
+timepoint	-0.066	0.040	-1.632	0.103	-0.145	0.013
+timepoint:breastfeeding[T.n]	0.064	0.041	1.561	0.118	-0.016	0.144
+timepoint:breastfeeding[T.x]	0.065	0.040	1.602	0.109	-0.014	0.144
+Group Var	0.004	0.011				
