@@ -1,0 +1,8 @@
+module_0	Flavobacterium	Veillonella	Streptococcus	Granulicatella
+module_1	Haemophilus	Bergeyella	Fusobacterium	Actinobacillus
+module_2	Saccharimonadales	Porphyromonas
+module_3	Atopobium	Staphylococcus
+module_4	Johnsonella	Alloprevotella
+module_5	Prevotella	Actinomyces
+module_6	Lachnoanaerobaculum	Gemella
+module_7	Leptotrichia	Campylobacter

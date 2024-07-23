@@ -1,0 +1,6 @@
+module_0	Haemophilus	Gemella
+module_1	Streptococcus	Bergeyella
+module_2	Enhydrobacter	Rothia
+module_3	Granulicatella	Staphylococcus
+module_4	Bifidobacterium	Alloprevotella
+module_5	Saccharimonadales	Neisseria

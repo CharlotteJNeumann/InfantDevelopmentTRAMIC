@@ -1,0 +1,8 @@
+module_0	Granulicatella	Gemella	Streptococcus
+module_1	Haemophilus	Porphyromonas	Neisseria
+module_2	Rothia	Actinomyces	Flavobacterium
+module_3	Lachnoanaerobaculum	Prevotella
+module_4	Actinobacillus	Solobacterium
+module_5	Leptotrichia	Alloprevotella
+module_6	Bergeyella	Veillonella
+module_7	Streptobacillus	Fusobacterium

@@ -1,0 +1,10 @@
+module_0	Abiotrophia	Neisseria	Flavobacterium
+module_1	Campylobacter	Gemella	Leptotrichia
+module_2	Acinetobacter	Pseudomonas
+module_3	Prevotella	Actinomyces
+module_4	Streptococcus	Rothia
+module_5	Streptobacillus	Johnsonella
+module_6	Granulicatella	Saccharimonadales
+module_7	Veillonella	Atopobium
+module_8	Alloprevotella	Porphyromonas
+module_9	Bergeyella	Actinobacillus

@@ -1,0 +1,10 @@
+module_0	Johnsonella	Alloprevotella	Porphyromonas	Neisseria
+module_1	Actinobacillus	Streptobacillus	Fusobacterium
+module_2	Granulicatella	Haemophilus	Bergeyella
+module_3	Fluviicola	Saccharimonadaceae_TM7a	Staphylococcus
+module_4	Veillonella	Gemella
+module_5	Rothia	Streptococcus
+module_6	Lachnoanaerobaculum	Solobacterium
+module_7	Campylobacter	Corynebacterium
+module_8	Prevotella	Actinomyces
+module_9	Acinetobacter	Flavobacterium
