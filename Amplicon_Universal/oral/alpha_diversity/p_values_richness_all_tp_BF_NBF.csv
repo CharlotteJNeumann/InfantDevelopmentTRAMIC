@@ -1,0 +1,13 @@
+tp,.y.,group1,group2,p,p.adj,p.format,p.signif,method
+M01,richness,n,x,0.531597195,0.53,0.53,ns,Wilcoxon
+M02,richness,n,x,0.12889989,0.13,0.13,ns,Wilcoxon
+M03,richness,n,x,0.081893572,0.082,0.082,ns,Wilcoxon
+M04,richness,n,x,0.05306868,0.053,0.053,ns,Wilcoxon
+M05,richness,n,x,0.005542417,0.0055,0.0055,**,Wilcoxon
+M06,richness,n,x,0.085280145,0.085,0.085,ns,Wilcoxon
+M07,richness,n,x,0.220530426,0.22,0.22,ns,Wilcoxon
+M08,richness,n,x,0.430361847,0.43,0.43,ns,Wilcoxon
+M09,richness,n,x,0.179557182,0.18,0.18,ns,Wilcoxon
+M10,richness,n,x,0.085941017,0.086,0.086,ns,Wilcoxon
+M11,richness,n,x,0.801685467,0.8,0.8,ns,Wilcoxon
+M12,richness,n,x,0.354944234,0.35,0.35,ns,Wilcoxon

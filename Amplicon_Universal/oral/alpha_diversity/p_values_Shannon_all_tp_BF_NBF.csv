@@ -1,0 +1,13 @@
+tp,.y.,group1,group2,p,p.adj,p.format,p.signif,method
+M01,Shannon,n,x,0.730060338,0.73,0.73,ns,T-test
+M02,Shannon,n,x,0.214080354,0.21,0.21,ns,T-test
+M03,Shannon,n,x,0.00043697,0.00044,0.00044,***,T-test
+M04,Shannon,n,x,0.001260409,0.0013,0.0013,**,T-test
+M05,Shannon,n,x,0.00787831,0.0079,0.0079,**,T-test
+M06,Shannon,n,x,0.008085841,0.0081,0.0081,**,T-test
+M07,Shannon,n,x,0.238353029,0.24,0.24,ns,T-test
+M08,Shannon,n,x,0.308319698,0.31,0.31,ns,T-test
+M09,Shannon,n,x,0.009613325,0.0096,0.0096,**,T-test
+M10,Shannon,n,x,0.162847335,0.16,0.16,ns,T-test
+M11,Shannon,n,x,0.167973573,0.17,0.17,ns,T-test
+M12,Shannon,n,x,0.287689153,0.29,0.29,ns,T-test

@@ -1,0 +1,13 @@
+tp,.y.,group1,group2,p,p.adj,p.format,p.signif,method
+M01,evenness,n,x,0.606522925,0.61,0.61,ns,T-test
+M02,evenness,n,x,0.220031851,0.22,0.22,ns,T-test
+M03,evenness,n,x,0.005550844,0.0056,0.0056,**,T-test
+M04,evenness,n,x,0.000516593,0.00052,0.00052,***,T-test
+M05,evenness,n,x,0.029319865,0.029,0.029,*,T-test
+M06,evenness,n,x,0.009792797,0.0098,0.0098,**,T-test
+M07,evenness,n,x,0.300894483,0.3,0.3,ns,T-test
+M08,evenness,n,x,0.410799919,0.41,0.41,ns,T-test
+M09,evenness,n,x,0.009637153,0.0096,0.0096,**,T-test
+M10,evenness,n,x,0.214050441,0.21,0.21,ns,T-test
+M11,evenness,n,x,0.058119678,0.058,0.058,ns,T-test
+M12,evenness,n,x,0.374371903,0.37,0.37,ns,T-test
