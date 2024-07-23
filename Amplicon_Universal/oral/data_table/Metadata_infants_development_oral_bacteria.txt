@@ -1,0 +1,415 @@
+sample ID 	individual	samplenumber	timepoint	breastfeeding	formula milk	formula milk type	other milk types	other milk types what	solid food	fruits	vegetables	dairy	grains	other solid food	antibiotics	antibiotics name	antibiotics duration	other medications	other medications what	pets	pets type
+B_i02_O1	i02	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i02_O2	i02	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i03_O1	i03	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i04_O1	i04	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i04_O2	i04	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i05_O1	i05	O1	101	NA	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i05_O2	i05	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i06_O1	i06	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i06_O2	i06	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i07_O1	i07	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i07_O2	i07	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i08_O1	i08	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i08_O2	i08	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i09_O1	i09	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i09_O2	i09	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i10_O1	i10	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i10_O2	i10	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i11_O1	i11	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i12_O2	i12	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i14_O1	i14	O1	101	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i14_O2	i14	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i15_O2	i15	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i16_O1	i16	O1	101	n	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i16_O2	i16	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i18_O1	i18	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i18_O2	i18	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i19_O1	i19	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i19_O2	i19	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i20_O1	i20	O1	101	NA	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i20_O2	i20	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i21_O1	i21	O1	101	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i21_O2	i21	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i22_O1	i22	O1	101	NA	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i22_O2	i22	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i23_O1	i23	O1	101	n	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i23_O2	i23	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i24_O1	i24	O1	101	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i24_O2	i24	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i25_O1	i25	O1	101	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i25_O2	i25	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i26_O1	i26	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i26_O2	i26	O2	102	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i27_O1	i27	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i27_O2	i27	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i28_O1	i28	O1	101	n	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i28_O2	i28	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i29_O1	i29	O1	101	NA	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i29_O2	i29	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i30_O1	i30	O1	101	n	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i30_O2	i30	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i31_O1	i31	O1	101	n	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i31_O2	i31	O2	102	x	x	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i32_O1	i32	O1	101	x	n	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i32_O2	i32	O2	102	x	NA	NA	NA	NA	n	n	n	n	n	n	NA	NA	NA	NA	NA	NA	NA
+B_i01_M01	i01	O_M01	201	n	x	Beba optippo pre	n	n	n	n	n	n	n	n	n	n	n	n	n	x	2 cats
+B_i01_M02	i01	O_M02	202	n	x	Beba optippo pre	n	n	n	n	n	n	n	n	n	n	n	n	n	x	2 cats
+B_i01_M03	i01	O_M03	203	n	x	Beba optippo pre	n	n	n	n	n	n	n	n	n	n	n	x	"antiflat tr, ab-kolicare-tr"	x	2 cats
+B_i01_M04	i01	O_M04	204	n	x	Beba optippo pre	n	n	n	n	n	n	n	n	n	n	n	n	n	x	2 cats
+B_i01_M05	i01	O_M05	205	n	x	Beba optippo pre	n	n	n	n	NA	n	n	n	n	n	n	n	n	x	2 cats
+B_i01_M06	i01	O_M06	206	n	x	Beba optippo pre	n	n	x	n	x	n	n	n	n	n	n	n	n	x	2 cats
+B_i01_M07	i01	O_M07	207	n	x	Beba optippo pre	n	n	x	x	x	n	x	n	n	n	n	n	n	x	2 cats
+B_i01_M08	i01	O_M08	208	n	x	Beba optippo pre	x	Milchbrei-Kindergries	x	x	x	n	n	n	n	n	n	n	n	x	2 cats
+B_i01_M09	i01	O_M09	209	n	x	Beba optippo pre	x	cowmilk	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i01_M10	i01	O_M10	210	n	x	Beba optippo pre	x	"Hipp Gute Nacht Brei, cowmilk"	x	x	x	n	x	n	n	n	n	n	n	x	2 cats
+B_i01_M11	i01	O_M11	211	n	x	Beba optippo pre	x	Baby-Milchgriesbrei	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i01_M12	i01	O_M12	212	n	x	Optipro pre beba	n	n	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i02_M01	i02	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Daktarin 2% orales Gel	x	2 cats
+B_i02_M02	i02	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	2 cats
+B_i02_M03	i02	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	2 cats
+B_i02_M04	i02	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	2 cats
+B_i02_M05	i02	O_M05	205	x	n	n	n	n	x	n	x	n	n	n	n	n	n	n	n	x	2 cats
+B_i02_M06	i02	O_M06	206	x	n	n	n	n	x	x	x	n	n	n	x	Amoxilan 250; 5ml	seit 24.5.18 (Probennahme 28.5.18)	x	Nasiben	x	2 cats
+B_i02_M07	i02	O_M07	207	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	x	2 cats
+B_i02_M08	i02	O_M08	208	x	x	Novalac Pre	n	n	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i02_M09	i02	O_M09	209	x	x	Aptamil Pre	n	n	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i02_M10	i02	O_M10	210	n	x	Aptamil Pre	n	n	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i02_M11	i02	O_M11	211	n	x	PRE zurück zum Ursprung	n	n	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i02_M12	i02	O_M12	212	n	x	PRE zurück zum Ursprung	n	n	x	x	x	x	x	n	n	n	n	n	n	x	2 cats
+B_i03_M01	i03	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Bipaia Tropfen	n	n
+B_i03_M02	i03	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Bipaia Tropfen, Antiflat, Oleovit P3"	n	n
+B_i03_M03	i03	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	" Antiflat, Oleovit D3"	n	n
+B_i03_M04	i03	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	" Antiflat, Oleovit D3 pH"	n	n
+B_i03_M05	i03	O_M05	205	x	n	n	n	n	x	n	x	n	n	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i03_M06	i03	O_M06	206	x	n	n	n	n	x	n	x	n	x	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i03_M07	i03	O_M07	207	x	n	n	n	n	x	x	x	n	x	n	n	n	n	x	"Oleovit D3 pH, enuron 125mg supp."	n	n
+B_i03_M08	i03	O_M08	208	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i03_M09	i03	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i03_M10	i03	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i03_M11	i03	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i03_M12	i03	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	Oleovit D3 pH	n	n
+B_i04_M01	i04	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	antiflat	n	n
+B_i04_M02	i04	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"antiflat, oleovit"	n	n
+B_i04_M03	i04	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"antiflat, oleovit d3"	n	n
+B_i04_M04	i04	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"antiflat, oleovit d3"	n	n
+B_i04_M05	i04	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"oleovit d3, Thoja occidentalis D6 Globuli, Impfungen: Rotavirus, 6fach, Pneumokokken"	n	n
+B_i04_M06	i04	O_M06	206	x	n	n	n	n	x	n	x	n	n	n	n	n	n	x	oleovit d3	n	n
+B_i04_M07	i04	O_M07	207	x	n	n	n	n	x	n	x	x	x	n	n	n	n	x	"Oleovit d3, dentinox-gel"	n	n
+B_i04_M08	i04	O_M08	208	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	oleovit D3	n	n
+B_i04_M09	i04	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	"oleovit D3, Dentinox-Gel, Beri-u-ron-Zäpfchen"	n	n
+B_i04_M10	i04	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	"oleovit D3, Dentinox-Gel,Globuli D6, Impfung Masern-Mumps-Röteln"	n	n
+B_i04_M11	i04	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	"Oleovit D3, Dentinox Gel"	n	n
+B_i04_M12	i04	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	x	"Oleovit D3, Impfen: Pneumokokken 6fach, Globuli T, Aexolenzäpfchen (?), Ose Zahnungshilfe"	n	n
+B_i05_M01	i05	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	femibion (mother?)	n	n
+B_i05_M02	i05	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i05_M03	i05	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i05_M04	i05	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i05_M05	i05	O_M05	205	x	n	n	n	n	x	n	x (Zucchini)	n	n	n	n	n	n	n	n	n	n
+B_i05_M06	i05	O_M06	206	x	n	n	n	n	x	n	x	n	n	oil and beef	n	n	n	n	n	n	n
+B_i05_M07	i05	O_M07	207	x	n	n	x	cow milk für Abendbrei	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i05_M08	i05	O_M08	208	x	n	n	x	cow milk (Milch-Getreidebrei)	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i05_M09	i05	O_M09	209	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i05_M10	i05	O_M10	210	x	x	Hipp Pre combiotik	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i05_M11	i05	O_M11	211	x	x	Hipp Pre combiotik	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i05_M12	i05	O_M12	212	x	x	Hipp Pre combiotik	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i06_M01	i06	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i06_M02	i06	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Oleovit, SAB Simplex Tropfen"	n	n
+B_i06_M03	i06	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i06_M04	i06	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i06_M05	i06	O_M05	205	x	n	n	n	n	x	n	x (2 mal Beikost)	n	n	n	n	n	n	n	n	n	n
+B_i06_M07	i06	O_M07	207	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i06_M08	i06	O_M08	208	x	x	Aptamil 2	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i06_M09	i06	O_M09	209	x	x	Aptamil 2 (ganz wenig)	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i06_M10	i06	O_M10	210	x	x	"Aptamil 3, Beba Optpro 2"	n	n	x	x	x	n	x	"meat, fish"	n	n	n	n	n	n	n
+B_i06_M11	i06	O_M11	211	x	x	Aptamil 3	n	n	x	x	x	x	x	n	n	n	n	x	"Prospan Hustensaft, Nasiben Babysaft"	n	n
+B_i06_M12	i06	O_M12	212	x	x	"Aptamil Pronutra 2&3, Hipp3 Bio Leche de crecimento"	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i07_M01	i07	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	x	Baneocin-Salbe (Vorhautsentzündung)	2.2-5.2.2018	n	n	n	n
+B_i07_M02	i07	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"2x Antiflat, täglich BiGaia"	n	n
+B_i07_M03	i07	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Impfung, Bigaia"	n	n
+B_i07_M04	i07	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Kochsalzlösung	n	n
+B_i07_M05	i07	O_M05	205	x	n	n	n	n	x	x	x	n	n	n	n	n	n	x	Windel foor	n	n
+B_i07_M06	i07	O_M06	206	x	n	n	n	n	x	x	x	n	n	meat	n	n	n	n	n	n	n
+B_i07_M07	i07	O_M07	207	x	x	Hipp Bio 1 Anfangsmilch	n	n	x	x	x	n	x	n	n	n	n	x	"NUREFLEX, ben-uron"	n	n
+B_i07_M08	i07	O_M08	208	n	x	HIPP Bio1	n	n	x	x	x	n	x	meat	n	n	n	n	n	n	n
+B_i07_M09	i07	O_M09	209	n	x	HIPP 2 Bio	n	n	x	x	x	n	x	meat	n	n	n	n	n	n	n
+B_i07_M10	i07	O_M10	210	n	x	HIPP Bio 2	n	n	x	x	x	x	x	meat	n	n	n	n	n	n	n
+B_i07_M11	i07	O_M11	211	n	x	Hipp Bio 2	n	n	x	x	x	n	x	meat	n	n	n	n	n	n	n
+B_i07_M12	i07	O_M12	212	n	x	Hipp Bio 3	n	n	x	x	x	n	x	meat	n	n	n	n	n	n	n
+B_i08_M01	i08	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i08_M02	i08	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i08_M03	i08	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i08_M04	i08	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i08_M05	i08	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i08_M06	i08	O_M06	206	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i08_M07	i08	O_M07	207	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i08_M08	i08	O_M08	208	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i08_M09	i08	O_M09	209	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i08_M10	i08	O_M10	210	x	n	n	n	n	x	x	x	n	x	meat	n	n	n	n	n	n	n
+B_i08_M11	i08	O_M11	211	x	n	n	x	Milch	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i08_M12	i08	O_M12	212	x	n	n	x	Milch	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i09_M01	i09	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i09_M02	i09	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Bi oaia	n	n
+B_i09_M03	i09	O_M03	203	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i09_M04	i09	O_M04	204	x	x	Aptamil pre	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i09_M05	i09	O_M05	205	n	x	Aptamil pre pro futura	n	n	x	n	x (Brei)	n	n	n	n	n	n	n	n	n	n
+B_i09_M06	i09	O_M06	206	n	x	Aptamil pre profutura	n	n	x	n	x (Karottenbrei)	n	n	n	n	n	n	n	n	n	n
+B_i09_M07	i09	O_M07	207	NA	NA	NA	NA	NA	x	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i09_M08	i09	O_M08	208	n	x	Aptamil pre profutura	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i09_M09	i09	O_M09	209	n	x	Aptamil pre profutura	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i09_M10	i09	O_M10	210	n	x	Aptamil pro future	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i09_M11	i09	O_M11	211	n	x	Aptamil 1	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i09_M12	i09	O_M12	212	n	x	Aptamil pro future	n	x	x	x	x	x	n	n	n	n	n	n	n	n	n
+B_i10_M01	i10	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Vit D Oleovit	n	n
+B_i10_M02	i10	O_M02	202	x	x	"HIPP Combiotik, nur 1x gegeben"	n	n	n	n	n	n	n	n	n	n	n	x	Candibene lokal	n	n
+B_i10_M03	i10	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Vitamin D, Dakterin Gel, Candio hermal creme"	n	n
+B_i10_M04	i10	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i10_M05	i10	O_M05	205	x	x	HIPP Combiotic 1	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i10_M06_1	i10	O_M06-1	206	n	x	Combiotik HIPP 1	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i10_M06_2	i10	O_M06-2	206	n	x	Combiotik HIPP 1	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i10_M07	i10	O_M07	207	n	x	Combiotik HIPP 1	x	cow milk	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i10_M08	i10	O_M08	208	n	x	Combiotik HIPP 1 +Nr.1	x	"Haferbrei, Dinkelbrei, Gemüse…"	x	x	x	n	x (selten davon kauen?)	n	n	n	n	n	n	x	tortoises
+B_i10_M09	i10	O_M09	209	n	x	Hipp Bio 1 Anfangsmilch	n	n	x	x	x	x	x	n	n	n	n	n	n	x	tortoises
+B_i10_M10	i10	O_M10	210	n	x	Hipp Bio 1 Anfangsmilch	n	n	x	x	x	x	x	n	n	n	n	n	n	x	tortoises
+B_i10_M11	i10	O_M11	211	n	x	Hofer	n	n	x	x	x	x	x	n	n	n	n	n	n	x	tortoises
+B_i10_M12	i10	O_M12	212	n	x	Hofer	n	n	x	x	x	x	x	n	x	Ceclor	7 Tage	n	n	x	tortoises
+B_i11_M01	i11	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i11_M02	i11	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i11_M03	i11	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i11_M04	i11	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i11_M05	i11	O_M05	205	x	n	n	n	n	x	x	x	n	n	n	n	n	n	n	n	n	n
+B_i11_M06	i11	O_M06	206	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i11_M07	i11	O_M07	207	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i11_M08	i11	O_M08	208	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i11_M09	i11	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i11_M10	i11	O_M10	210	x	x	Aptamil 1	x	cow milk	x	x	x	x	x	n	n	n	n	x	Combatrin (1x Mitbehandlung)	n	n
+B_i11_M11	i11	O_M11	211	x	x	Aptamil	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i11_M12	i11	O_M12	212	x	x	Aptamil	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i12_M01	i12	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i12_M02	i12	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i12_M03	i12	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Bigaia Tropfen	n	n
+B_i12_M04	i12	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Bigaia Tropfen	n	n
+B_i12_M05	i12	O_M05	205	x	x	Aptamil pre	n	n	x	n	x	n	n	meat	n	n	n	n	n	n	n
+B_i12_M06	i12	O_M06	206	n	x	Aptamil Pre	n	n	x	n	x	n	x	meat	n	n	n	n	n	n	n
+B_i12_M07	i12	O_M07	207	n	x	Aptamil Pre	x	cow milk	x	x	x	n	x	meat	n	n	n	n	n	n	n
+B_i12_M08	i12	O_M08	208	n	x	Aptamil Pre	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	x	Oleovit Tropfen	n	n
+B_i12_M09	i12	O_M09	209	n	x	Aptamil Pre	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	x	Oleovit	n	n
+B_i12_M10	i12	O_M10	210	n	x	Aptamil Pre	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	x	Oleovit	n	n
+B_i12_M11	i12	O_M11	211	n	x	Aptamil Pre	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	x	"Oleovit D3, Omnibiotic Panda"	n	n
+B_i12_M12	i12	O_M12	212	n	x	Aptamil Pre	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	x	Oleovit D3	n	n
+B_i13_M03	i13	O_M03	203	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i14_M01	i14	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i14_M02	i14	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i14_M03	i14	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i14_M04	i14	O_M04	204	NA	NA	NA	NA	NA	n	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i14_M05	i14	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i14_M06	i14	O_M06	206	x	n	n	n	n	x	x	x	x (wenig)	x (wenig)	egg (few)	n	n	n	n	n	n	n
+B_i14_M07	i14	O_M07	207	x	n	n	n	n	x	x	x	x	x	"eggs, fish, meat, Hülsenfrüchte, Öle"	n	n	n	n	n	n	n
+B_i14_M08	i14	O_M08	208	x	n	n	n	n	x	x	x	x	x	"alles außer Zucker, Honig, Alkohol ;)"	n	n	n	n	n	n	n
+B_i14_M09	i14	O_M09	209	x	n	n	n	n	x	x	x	x	x	"alles außer Zucker, Honig, Alkohol ;)"	n	n	n	n	n	n	n
+B_i14_M10	i14	O_M10	210	x	n	n	n	n	x	x	x	x	x	"alles außer Zucker, Honig, Alkohol ;)"	n	n	n	n	n	n	n
+B_i14_M11	i14	O_M11	211	x	n	n	n	n	x	x	x	x	x	"alles außer Zucker, Honig, Alkohol ;)"	n	n	n	n	n	n	n
+B_i14_M12	i14	O_M12	212	x	n	n	n	n	x	x	x	x	x	"alles außer Zucker, Honig, Alkohol ;)"	n	n	n	n	n	n	n
+B_i15_M01	i15	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Bigaia Tropfen, Zäpfchen gegen Blähungen aus der Apotheke, selbst hergestelltes Anis, Foeniculi, Lavendulae, Eviae, Olivae"	n	n
+B_i15_M02	i15	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Blähzäpfchen und selbst Kümmel, Anis"	n	n
+B_i15_M04	i15	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i15_M05	i15	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i15_M06	i15	O_M06	206	x	n	n	n	n	x	n	x	n	n	"Olivenöl, Sonnenblumenöl"	n	n	n	n	n	n	n
+B_i15_M07	i15	O_M07	207	x	x	Pre Milch	n	n	x	n	x	n	x	Hirseflocken	n	n	n	n	Globuli	n	n
+B_i15_M08	i15	O_M08	208	x	x	Pre Milch	n	n	x	x	n	n	x	n	n	n	n	n	n	n	n
+B_i15_M09	i15	O_M09	209	x	n	n	x	"almond milk, cow milk"	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i15_M10	i15	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i15_M11	i15	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i15_M12	i15	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i16_M01	i16	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"doge, cats, guinea pig"
+B_i16_M02	i16	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M03	i16	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M04	i16	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M05	i16	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M06	i16	O_M06	206	x	n	n	n	n	x	n	x (wenig)	n	x (wenig)	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M07	i16	O_M07	207	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M08	i16	O_M08	208	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M09	i16	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M10	i16	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M11	i16	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i16_M12	i16	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"doge, cats, guinea pig, bunny"
+B_i17_M07	i17	O_M07	207	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+B_i18_M01	i18	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Ferretab, Euthyro x50"	x	dog
+B_i18_M02	i18	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Ferretab, Euthyro x50"	x	dog
+B_i18_M03	i18	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Ferretab, Euthyro x50"	x	dog
+B_i18_M04	i18	O_M04	204	x	n	n	n	n	x	n	x (Karottenbrei mit Öl)	n	n	Olivenöl	n	n	n	n	n	x	dog
+B_i18_M05	i18	O_M05	205	x	n	n	n	n	x	n	x	n	x	n	n	n	n	n	n	x	dog
+B_i18_M06	i18	O_M06	206	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	x	dog
+B_i18_M08	i18	O_M08	208	x	n	n	x	cow milk	x	x	x	n	x	n	n	n	n	n	n	x	dog
+B_i18_M09	i18	O_M09	209	x	n	n	x	cow milk	x	x	x	n	x	n	n	n	n	n	n	x	dog
+B_i18_M10	i18	O_M10	210	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i18_M11	i18	O_M11	211	x	n	n	x	cow milk	x	x	x	x	x	n	x	Verdacht auf Lungenentzündung	7 Tage	n	n	n	n
+B_i18_M12	i18	O_M12	212	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i19_M01	i19	O_M01	201	x	x	2x Bebos PreHA	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit D3 Tropfen 1x tgl.	n	n
+B_i19_M02	i19	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit D3 Tropfen 1x tgl.	n	n
+B_i19_M03	i19	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit D3 Tropfen 1x tgl.	n	n
+B_i19_M04	i19	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit D3 Tropfen 1x tgl.	n	n
+B_i19_M05	i19	O_M05	205	x	x	Hipp Pre HA Combiotik (nicht regelmäßig)	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit D3 Tropfen 1x tgl. & Antiflat Tropfen (bei Bedarf)	n	n
+B_i19_M06	i19	O_M06	206	x	x	DM Bio Anfangsmilch PRE	n	n	x	n	x	n	x	"Reis, Kartoffel"	n	n	n	x	Oleovit D3 Tropfen 1x tgl.	n	n
+B_i19_M07	i19	O_M07	207	x	x	Bebivita (pre+1)	n	n	x	x	x	n	x	n	n	n	n	x	Weleda Kohle comp. Kapseln	n	n
+B_i19_M08	i19	O_M08	208	n	x	Holle Ziegenmilch 1	n	n	x	x	x	n	x	n	n	n	n	x	"Oleovit, Antiflat, Viburcid Sup b.B."	n	n
+B_i19_M09	i19	O_M09	209	n	x	Milumil HA Pre	n	n	x	x	x	n	x	n	n	n	n	x	Oleovit D3 Tropfen 1x tgl.	n	n
+B_i19_M10	i19	O_M10	210	n	x	Milumil HA Pre+1	n	n	x	x	x	n	x	n	n	n	n	x	"Oleovit D3, Antiflat bei Bedarf"	n	n
+B_i19_M11	i19	O_M11	211	n	x	Milumil Pre H	n	n	x	x	x	n	x	n	n	n	n	x	"Oleovit D3, Antiflat bei Bedarf"	n	n
+B_i19_M12	i19	O_M12	212	n	x	Milumil Pre HEA	n	n	x	x	x	n	x	n	n	n	n	x	"Oleovit D3, bei Bedarf Antiflat"	n	n
+B_i20_M01	i20	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Antiflat-Tropfen	n	n
+B_i20_M02	i20	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Antiflat-Tropfen, 4 Kümmelzäpfchen, Oleovit tgl 1 Tropfen"	n	n
+B_i20_M03	i20	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Antiflat-Tropfen, 4 Kümmelzäpfchen, Oleovit tgl 1 Tropfen, Dropchere-Kur"	n	n
+B_i20_M04	i20	O_M04	204	x	n	n	n	n	n	n	n	n	n	"hat kurz gelutscht an Ananas, Melone, Zitrone"	n	n	n	x	"Antiflat-Tropfen, 4 Kümmelzäpfchen, Oleovit tgl 1 Tropfen, Dropchere-Kur"	n	n
+B_i20_M05	i20	O_M05	205	x	n	n	n	n	x	x	x	n	n	"Kartoffeln, Reis, meat"	n	n	n	x	"Antiflat-Tropfen, 4 Kümmelzäpfchen, Oleovit tgl 1 Tropfen"	n	n
+B_i20_M06	i20	O_M06	206	x	n	n	n	n	x	x	x	n	x	"Kartoffeln, Reis, meat"	n	n	n	x	Oleovit	n	n
+B_i20_M07	i20	O_M07	207	x	n	n	n	n	x	x	x	n	x	meat	n	n	n	x	Ibuprofen 2 Zäpfchen	n	n
+B_i20_M08	i20	O_M08	208	x	n	n	n	n	x	n	n	n	n	Brei (?)	n	n	n	x	Oleovit	n	n
+B_i20_M09	i20	O_M09	209	x	n	n	n	n	x	x	x	n	x	"meat, fish"	n	n	n	x	F2x Fieberzäpfchen vor ca. 10 Tagen	n	n
+B_i20_M10	i20	O_M10	210	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i20_M11	i20	O_M11	211	x	n	n	n	n	x	x	x	n	x	"Maisrollen, Käsestückchen, Brotstückchen, eher Probiernahrung"	n	n	n	x	"Oleovit, Fluor"	n	n
+B_i20_M12	i20	O_M12	212	x	n	n	n	n	x	x	x	n	x	aber noch nicht viel	n	n	n	x	"Oleovit, Fluor"	n	n
+B_i21_M01	i21	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i21_M02	i21	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit	n	n
+B_i21_M03	i21	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit	n	n
+B_i21_M04	i21	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i21_M05	i21	O_M05	205	x	n	n	n	n	x	n	x (wenig Karotten)	n	n	n	n	n	n	n	n	n	n
+B_i21_M06	i21	O_M06	206	x	n	n	n	n	x	x	x	x	x	meat	n	n	n	n	n	n	n
+B_i21_M07	i21	O_M07	207	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i21_M08	i21	O_M08	208	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i21_M09	i21	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	(Nasiben Nasentropfen)	n	n
+B_i21_M10	i21	O_M10	210	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i21_M11	i21	O_M11	211	n	n	n	x	cow milk	x	x	x	x	x	x	n		n	nn	n	n	n
+B_i21_M12	i21	O_M12	212	n	n	n	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	n	n	n	n
+B_i22_M01	i22	O_M01	201	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i22_M02	i22	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Antiflat	n	n
+B_i22_M03	i22	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Antiflat, Schluckimpfung"	n	n
+B_i22_M04	i22	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i22_M05	i22	O_M05	205	x	n	n	n	n	x	n	x	n	n	n	n	n	n	n	n	n	n
+B_i22_M06	i22	O_M06	206	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i22_M07	i22	O_M07	207	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i22_M08	i22	O_M08	208	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i22_M09	i22	O_M09	209	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i22_M10	i22	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i22_M11	i22	O_M11	211	n	x 	Hipp Combiotic Folgemilch 2	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i22_M12	i22	O_M12	212	n	x	"Hipp Combiotik, Folgemilch 2"	x	cow milk Brei	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i23_M01	i23	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	x	Gentax Augentropfen	5 Tage	n	n	n	n
+B_i23_M02	i23	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i23_M03	i23	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i23_M04	i23	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Sechsfachimpfung am Vortag	n	n
+B_i23_M05	i23	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i23_M06	i23	O_M06	206	x	n	n	n	n	x	n	x	n	n	n	n	n	n	n	n	n	n
+B_i23_M07	i23	O_M07	207	x	n	n	n	n	x	n	x	n	n	n	n	n	n	n	n	n	n
+B_i23_M08	i23	O_M08	208	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	n	n
+B_i23_M09	i23	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i23_M10	i23	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i23_M11	i23	O_M11	211	x	x	Pre Babylove	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i23_M12	i23	O_M12	212	n	x	Zurück zum Ursprung Pre	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i24_M01	i24	O_M01	201	n	x	Apptamil HA Pre	n	n	n	n	n	n	n	n	n	n	n	x	VITD 1x tgl	n	n
+B_i24_M02	i24	O_M02	202	n	x	Aptamil PRE	n	n	n	n	n	n	n	n	n	n	n	x	"Antiflat, VitaminD, am 10.12. Schluckimpfung Rotavirus"	n	n
+B_i24_M03	i24	O_M03	203	n	x	Aptamil PRE	n	n	n	n	n	n	n	n	n	n	n	x	"Antiflat, 10.1. Schluckimpfung Rota (2x), Pneumokokken, 6fach Impfung "	n	n
+B_i24_M04	i24	O_M04	204	n	x	Aptamil Pre	n	n	n	n	n	n	n	n	n	n	n	x	Antiflat	n	n
+B_i24_M05	i24	O_M05	205	n	x	Aptamil PRE	n	n	n	n	n	n	n	n	n	n	n	x	Antiflat	n	n
+B_i24_M06	i24	O_M06	206	n	x	Aptamil	n	n	x	n	x	n	n	"carrots, pumpkin"	n	n	n	n	n	n	n
+B_i24_M07	i24	O_M07	207	n	x	Aptamil 1	n	n	x	x	x	x	n	"Getreidebrei, Hühnermeat, Rindmeat"	n	n	n	n	n	n	n
+B_i24_M08	i24	O_M08	208	n	x	Aptamil 2	n	n	x	x	x	x	n	"meat, fish"	n	n	n	n	n	n	n
+B_i24_M09	i24	O_M09	209	n	x	Aptamil 2	n	n	x	x	x	n	x	"meat, fish"	n	n	n	n	n	n	n
+B_i24_M10	i24	O_M10	210	n	x	Aptamil 2	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	n	n	n	n
+B_i24_M11	i24	O_M11	211	n	x	Aptamil 2	x	cow milk	x	x	x	x	x	"meat, fish"	n	n	n	n	n	n	n
+B_i24_M12	i24	O_M12	212	n	x	Aptamil 2	n	n	x	x	x	x	x	"meat, fish"	n	n	n	n	n	n	n
+B_i24_M01_2	i24	O_M01-2	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	dog
+B_i25_M01	i25	O_M01-1	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	dog
+B_i25_M02	i25	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Probioticum Bigaia, Osanit-Blähungskügelchen, SAB Tropfen, D3 Tropfen, Mycostatin-oral suspension"	x	dog
+B_i25_M03	i25	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Oleovit D, Osamit, Bio Gaia protectis, SAB Tropfen"	x	dog
+B_i25_M04	i25	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"Vitamin D, Probiotikum PROGAIA, Globuli für Zähne und Bauch "	x	dog
+B_i25_M05	i25	O_M05	205	x	n	n	n	n	x	n	x	n	n	"carrots, Cukina, Pastinake, ?"	n	n	n	x	Vitamin D	x	dog
+B_i25_M06	i25	O_M06	206	x	n	n	n	n	x	x	x	n	x	meat	n	n	n	x	Vitamin D	x	dog
+B_i25_M07	i25	O_M07	207	x	n	n	n	n	x	x	x	x	x	meat	n	n	n	x	Vitamin D	x	dog
+B_i25_M08	i25	O_M08	208	x	n	n	x	cow milk	x	x	x	x	x	meat	n	n	n	x	Vitamin D	x	dog
+B_i25_M09	i25	O_M09	209	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	x	Vitamin D	x	dog
+B_i25_M10	i25	O_M10	210	x	n	n	x	cow milk	x	x	x	x	x	n	n	n	n	x	Vitamin D	x	dog
+B_i25_M11	i25	O_M11	211	x	n	n	x	cow milk	x	x	x	x	x	everything	n	n	n	x	Vitamin D	x	dog
+B_i25_M12	i25	O_M12	212	x	n	n	x	cow milk	x	x	x	x	x	everything	n	n	n	x	Vitamin D	x	dog
+B_i26_M01	i26	O_M01	201	n	x	Bebivita (pre+1)	n	n	n	n	n	n	n	n	n	n	n	x	Nasiben	x	cats
+B_i26_M02	i26	O_M02	202	n	x	Bebioita 1	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i26_M03	i26	O_M03	203	n	x	Bebivita1	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i26_M04	i26	O_M04	204	n	x	1er Bebivita	n	n	x	n	x	n	n	n	n	n	n	n	n	x	cats
+B_i26_M05	i26	O_M05	205	n	x	Bebivita 1	n	n	x	x	x	n	n	n	n	n	n	x	"Nasiben, Sultanol, Osanit, Benuron, Vibrocol"	x	cats
+B_i26_M06	i26	O_M06	206	n	x	Bebivita 1	n	n	x	x	x	n	n	n	n	n	n	n	n	x	cats
+B_i26_M07	i26	O_M07	207	n	x	Bebivita 1	n	n	x	x	x	x	n	x	n	n	n	n	n	x	cats
+B_i26_M08	i26	O_M08	208	NA	NA	NA	NA	NA	x	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	cats
+B_i26_M09	i26	O_M09	209	n	x	Bebivita 1	x	n	x	x	x	x	x	n	n	n	n	n	n	x	cats
+B_i26_M10	i26	O_M10	210	n	x	Bebivita 1	x	n	x	x	x	x	x	n	n	n	n	n	n	x	cats
+B_i26_M11	i26	O_M11	211	n	x	Bebivita 1	x	n	x	x	x	x	x	n	n	n	n	n	n	x	cats
+B_i26_M12	i26	O_M12	212	n	x	Bebivita 1	x	n	x	x	x	x	x	n	n	n	n	n	n	x	cats
+B_i27_M01	i27	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	n	n	n
+B_i27_M02	i27	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i27_M03	i27	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i27_M04	i27	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Sultanol	n	n
+B_i27_M05	i27	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i27_M06	i27	O_M06	206	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i27_M07	i27	O_M07	207	x	n	n	n	n	x	x	x	n	n	n	n	n	n	n	n	n	n
+B_i27_M08	i27	O_M08	208	x	n	n	n	n	x	x	x	x	n	n	n	n	n	n	n	n	n
+B_i27_M09	i27	O_M09	209	x	n	n	n	n	x	x	x	x	n	n	n	n	n	n	n	n	n
+B_i27_M10	i27	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i27_M11	i27	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i27_M12	i27	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i28_M01	i28	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n		dog
+B_i28_M02	i28	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	dog
+B_i28_M03	i28	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	dog
+B_i28_M04	i28	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	dog
+B_i28_M05	i28	O_M05	205	x	n	n	n	n	x	x	x	n	n	n	x	Monuril	2x1Pck	n	n	x	dog
+B_i28_M06	i28	O_M06	206	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	x	dog
+B_i28_M07	i28	O_M07	207	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i28_M08	i28	O_M08	208	x	n	n	x	cow milk im Essen	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i28_M09	i28	O_M09	209	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i28_M10	i28	O_M10	210	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i28_M11	i28	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i28_M12	i28	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	dog
+B_i29_M01	i29	O_M01	201	x	x	Aptamil pre	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i29_M02	i29	O_M02	202	x	x	Aptamil pre	n	n	n	n	n	n	n	n	n	n	n	x	Nasentropfen	x	cats
+B_i29_M03	i29	O_M03	203	n	x	Aptamil mit Pronutra Nr 1	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i29_M04	i29	O_M04	204	n	x	"Aptamil, Anfangsmilch von Geburt an"	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i29_M05	i29	O_M05	205	n	x	"Aptamil, Anfangsmilch von Geburt an"	n	n	x	n	x	n	x	Milchbrei	n	n	n	n	n	x	cats
+B_i29_M06	i29	O_M06	206	n	x	Aptamil Nr 1 und Nr 2	n	n	x	n	x	n	x	"Milchbrei, Reisbrei, meat"	n	n	n	n	n	x	cats
+B_i29_M08	i29	O_M08	208	n	x	Aptamil Nr 1 und Nr 2	n	n	x	x	x	x	x	"Milchbrei, Reisbrei, meat"	n	n	n	n	n	x	cats
+B_i29_M09	i29	O_M09	209	n	x	Aptamil Nr 2	x	Milch in Brei	x	x	x	x	x	"Reisbrei, Milchbrei, meat, fish"	n	n	n	n	n	x	cats
+B_i29_M10	i29	O_M10	210	n	x	Aptamil Nr 2	x	cow milk	x	x	x	x	x	"Reisbrei, Milchbrei, meat, fish"	n	n	n	n	n	x	cats
+B_i29_M11	i29	O_M11	211	n	x	"Aptamil Nr 2, Millupa Nr 2"	x	cow milk	x	x	x	x	x	"fish, meat, alles"	n	n	n	n	n	x	cats
+B_i29_M12	i29	O_M12	212	n	x	"Aptamil, Millupa"	x	cow milk	x	x	x	x	x	everything	n	n	n	n	n	x	cats
+B_i30_M01	i30	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i30_M02	i30	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i30_M03	i30	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i30_M04	i30	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i30_M05	i30	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	cats
+B_i30_M06	i30	O_M06	206	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	x	cats
+B_i30_M07	i30	O_M07	207	x	n	n	n	n	x	x	x	x	x	meat	n	n	n	n	n	x	cats
+B_i30_M08	i30	O_M08	208	x	n	n	n	n	x	x	x	x	x	meat	n	n	n	n	n	x	cats
+B_i30_M09	i30	O_M09	209	x	n	n	n	n	x	x	x	x	x	meat	n	n	n	n	n	x	cats
+B_i30_M10	i30	O_M10	210	x	n	n	n	n	x	x	x	x	x	meat	n	n	n	n	n	x	cats
+B_i30_M11	i30	O_M11	211	x	n	n	n	n	x	x	x	x	x	"meat, Eier"	n	n	n	n	n	x	cats
+B_i30_M12	i30	O_M12	212	x	n	n	n	n	x	x	x	x	x	"meat, Eier"	n	n	n	n	n	x	cats
+B_i31_M01	i31	O_M01	201	NA	NA	NA	NA	NA	n	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	n
+B_i31_M02	i31	O_M02	202	n	x	Bebo	n	n	n	n	n	n	n	n	n	n	n	x	Antiflat	n	n
+B_i31_M03	i31	O_M03	203	n	x	Bebo	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+B_i31_M04	i31	O_M04	204	n	x	Bebo	n	x	x	x	n	n	n	n	n	n	n	n	n	n	n
+B_i31_M05	i31	O_M05	205	n	x	Bebo	n	n	x	n	x	n	n	n	n	n	n	n	n	n	n
+B_i31_M06	i31	O_M06	206	n	x	Bebo	n	n	x	x	x	n	n	n	n	n	n	x	Nureflexsaft	n	n
+B_i31_M07	i31	O_M07	207	n	x	Bebo	n	n	x	x	x	x	x	n	n	n	n	n	Impfungen lt PaB	n	n
+B_i31_M08	i31	O_M08	208	n	x	Bebo	n	n	x	x	x	x	x	n	n	n	n	n	n	n	n
+B_i31_M09	i31	O_M09	209	n	n	n	n	n	x	x	x	x	x	n	n	n	n	x	"Nureflexsaft, Cistusimmunsaft"	n	n
+B_i31_M10	i31	O_M10	210	n	x	Hipp2	n	n	x	x	x	x	x	n	n	n	n	x	Nureflex	n	n
+B_i31_M11	i31	O_M11	211	n	x	Hipp2	n	n	x	x	x	x	x	n	n	n	n	x	Nureflex	n	n
+B_i31_M12	i31	O_M12	212	n	x	Hipp2	n	n	x	x	x	x	x	n	n	n	n	x	Nureflex	n	n
+B_i32_M01	i32	O_M01	201	x	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"2 cats, 1 dog"
+B_i32_M02	i32	O_M02	202	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	BIGAIA seit 27.4. 3 Tropfen/Tag	x	"2 cats, 1 dog"
+B_i32_M03	i32	O_M03	203	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"B1 Gaia, Oleovit"	x	"2 cats, 1 dog"
+B_i32_M04	i32	O_M04	204	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	Oleovit	x	"2 cats, 1 dog"
+B_i32_M05	i32	O_M05	205	x	n	n	n	n	n	n	n	n	n	n	n	n	n	x	"B1 Gaia, Oleovit"	x	"2 cats, 1 dog"
+B_i32_M06	i32	O_M06	206	x	n	n	n	n	x	x	x	n	n	n	n	n	n	x	BIGAIA 3 Tropfen/Tag	x	"2 cats, 1 dog"
+B_i32_M07	i32	O_M07	207	x	n	n	n	n	x	n	x	n	x	n	n	n	n	x	Bigaia	x	"2 cats, 1 dog"
+B_i32_M08	i32	O_M08	208	x	n	n	n	n	x	n	x	n	n	n	n	n	n	x	"Bigaia, Antiflat"	x	"2 cats, 1 dog"
+B_i32_M09	i32	O_M09	209	x	n	n	n	n	x	x	x	n	n	n	n	n	n	n	n	x	"2 cats, 1 dog"
+B_i32_M10	i32	O_M10	210	x	n	n	n	n	x	x	x	n	x	n	n	n	n	n	n	x	"2 cats, 1 dog"
+B_i32_M11	i32	O_M11	211	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"2 cats, 1 dog"
+B_i32_M12	i32	O_M12	212	x	n	n	n	n	x	x	x	x	x	n	n	n	n	n	n	x	"2 cats, 1 dog"
