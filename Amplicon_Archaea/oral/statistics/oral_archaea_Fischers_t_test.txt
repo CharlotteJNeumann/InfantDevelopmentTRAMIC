@@ -1,0 +1,24 @@
+FEEDING														
+genus	O1	O2	M01	M02	M03	M04	M05	M06	M07	M08	M09	M10	M11	M12
+Methanobrevibacter	0.53947368	1	1	0.08235294	1	0.48928571	1	0.62669683	1	1	1	1	0.3956044	NA
+unclassified_Woesearchaeales	0.559791	1	0.6328671	0.4264706	0.4725275	1	1	1	1	1	0.5300699	0.4909091	0.2747253	NA
+Candidatus_Nitrosotenuis	1	1	NA	NA	NA	1	1	NA	NA	NA	NA	NA	NA	NA
+Methanobacterium	1	0.2222222	NA	1	NA	NA	NA	NA	NA	1	1	NA	1	NA
+Methanosphaera	NA	NA	NA		NA	NA	NA		NA	NA	NA	NA	NA	NA
+unclassified_Aenigmarchaeales	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	NA	NA
+unclassified_Nitrososphaeraceae	NA	1	NA	NA	NA	0.1875	NA	NA	1	NA	1	1	1	NA
+unclassified_Woesearchaeales_GW2011_GWC1_47_15	NA	NA	NA	0.2352941	1	NA	NA	NA	NA	NA	NA	NA	NA	NA
+unclassified_Woesearchaeales_SCGC_AAA011-D5	NA	NA	NA	1	NA	1	NA	NA	NA	NA	NA	NA	NA	NA
+														
+														
+BIRTHMODE														
+genus	O1	O2	M01	M02	M03	M04	M05	M06	M07	M08	M09	M10	M11	M12
+Methanobrevibacter	1	1	0.5879121	1	1	0.5764706	0.1515152	0.6266968	1	1	1	0.1818182	1	1
+unclassified_Woesearchaeales	0.6026832	1	0.6328671	0.4705882	0.2773893	0.4705882	1	1	0.5151515	0.4736842	1	0.5454545	1	0.303405
+Candidatus_Nitrosotenuis	1	0.4771242	NA	NA	NA	0.4705882	0.4166667	NA	NA	NA	NA	NA	NA	NA
+Methanobacterium	0.4	0.4444444	NA	0.2941176	NA	NA	NA	NA	NA	1	1	NA	1	0.36985
+Methanosphaera	NA	NA	NA	1	NA	NA	NA	1	NA	NA	NA	NA	NA	0.4736842
+unclassified_Aenigmarchaeales	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.4545455	NA	0.4736842
+unclassified_Nitrososphaeraceae	NA	0.4444444	NA	NA	NA	1	NA	NA	1	NA	1	0.4545455	0.3571429	NA
+unclassified_Woesearchaeales_GW2011_GWC1_47_15	NA	NA	NA	1	1	NA	NA	NA	NA	NA	NA	NA	NA	1
+unclassified_Woesearchaeales_SCGC_AAA011-D5	NA	NA	NA	1	NA	0.4705882	NA	NA	NA	NA	NA	NA	NA	0.2105263
