@@ -1,0 +1,18 @@
+module_0	Veillonella	Escherichia-Shigella	Haemophilus
+module_1	Ruminococcaceae_CAG-352	Collinsella	Sellimonas
+module_2	Terrisporobacter	Romboutsia	Parasutterella
+module_3	Butyricicoccus	[Eubacterium]_hallii_group	[Ruminococcus]_torques_group
+module_4	Bacteroides	Parabacteroides
+module_5	Akkermansia	Prevotella
+module_6	Incertae_Sedis	Megasphaera
+module_7	Anaerostipes	Intestinibacter
+module_8	Lactobacillus	Epulopiscium
+module_9	Coprobacillus	[Eubacterium]_eligens_group
+module_10	Streptococcus	Granulicatella
+module_11	Lachnoclostridium	Tyzzerella
+module_12	Enterococcus	Bifidobacterium
+module_13	Clostridioides	Roseburia
+module_14	[Clostridium]_innocuum_group	Hungatella
+module_15	Flavonifractor	Eggerthella
+module_16	Erysipelatoclostridium	[Ruminococcus]_gnavus_group
+module_17	Clostridium_sensu_stricto_1	Sutterella

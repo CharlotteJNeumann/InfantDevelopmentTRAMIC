@@ -1,0 +1,6 @@
+module_0	Gemella	Rothia	Haemophilus
+module_1	Streptococcus	Bifidobacterium	Staphylococcus
+module_2	Eggerthella	Actinomyces
+module_3	Fusobacterium	Veillonella
+module_4	Bacteroides	[Ruminococcus]_gnavus_group
+module_5	Flavonifractor	Hungatella

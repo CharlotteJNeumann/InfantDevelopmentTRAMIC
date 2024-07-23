@@ -1,0 +1,10 @@
+module_0	Bifidobacterium	Escherichia-Shigella	Clostridium_sensu_stricto_1	Enterococcus	Veillonella
+module_1	Actinobacillus	Romboutsia	Haemophilus
+module_2	Bacteroides	Parabacteroides	Megasphaera
+module_3	Granulicatella	Gemella
+module_4	Rothia	Streptococcus
+module_5	Fusobacterium	Lactobacillus
+module_6	[Ruminococcus]_gnavus_group	Erysipelatoclostridium
+module_7	Incertae_Sedis	Sellimonas
+module_8	Clostridioides	Epulopiscium
+module_9	[Ruminococcus]_torques_group	Sutterella

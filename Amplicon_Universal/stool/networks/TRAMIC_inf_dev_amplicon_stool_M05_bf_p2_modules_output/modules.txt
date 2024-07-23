@@ -1,0 +1,5 @@
+module_0	Gemella	Granulicatella	Rothia	Streptococcus	Haemophilus
+module_1	Clostridium_sensu_stricto_1	Veillonella
+module_2	Escherichia-Shigella	[Ruminococcus]_gnavus_group
+module_3	Parabacteroides	Bacteroides
+module_4	Actinomyces	Ruminococcaceae_UBA1819

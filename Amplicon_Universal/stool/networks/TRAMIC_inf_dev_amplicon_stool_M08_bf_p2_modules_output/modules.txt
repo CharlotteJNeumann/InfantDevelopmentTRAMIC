@@ -1,0 +1,9 @@
+module_0	Rothia	Bifidobacterium	Enterococcus
+module_1	Streptococcus	Gemella	Granulicatella
+module_2	Blautia	Faecalibacterium	Roseburia
+module_3	Megasphaera	Parabacteroides	Bacteroides
+module_4	Intestinibacter	Escherichia-Shigella
+module_5	Actinobacillus	Haemophilus
+module_6	Anaerosporobacter	Epulopiscium
+module_7	Erysipelatoclostridium	[Ruminococcus]_gnavus_group
+module_8	Eubacterium	Sellimonas

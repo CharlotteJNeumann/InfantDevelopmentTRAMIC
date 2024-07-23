@@ -1,0 +1,8 @@
+module_0	Haemophilus	Staphylococcus	Gemella	Granulicatella	Rothia	Streptococcus
+module_1	Parabacteroides	Sutterella	Peptostreptococcus	Bacteroides
+module_2	Lactobacillus	Eggerthella
+module_3	Lachnoclostridium	Incertae_Sedis
+module_4	Clostridium_sensu_stricto_1	Intestinibacter
+module_5	Megasphaera	Butyricicoccus
+module_6	Anaerosporobacter	Epulopiscium
+module_7	Bifidobacterium	Escherichia-Shigella

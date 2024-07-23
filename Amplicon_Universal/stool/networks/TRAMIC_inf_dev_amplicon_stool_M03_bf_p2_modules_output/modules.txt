@@ -1,0 +1,6 @@
+module_0	Bifidobacterium	Escherichia-Shigella
+module_1	Sutterella	Staphylococcus
+module_2	Lactobacillus	Enterococcus
+module_3	Bacteroides	Parabacteroides
+module_4	Gemella	Streptococcus
+module_5	Rothia	Haemophilus

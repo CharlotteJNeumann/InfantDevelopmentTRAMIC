@@ -1,0 +1,10 @@
+module_0	Streptococcus	Gemella	Bifidobacterium	Granulicatella	Rothia
+module_1	Haemophilus	Sutterella
+module_2	Eubacterium	Sellimonas
+module_3	Intestinibacter	Erysipelatoclostridium
+module_4	[Ruminococcus]_gnavus_group	Lactobacillus
+module_5	Lachnospira	Anaerosporobacter
+module_6	Eggerthella	Lachnoclostridium
+module_7	Bacteroides	Megasphaera
+module_8	[Eubacterium]_coprostanoligenes_group	Parabacteroides
+module_9	Enterococcus	Ruminococcaceae_UBA1819

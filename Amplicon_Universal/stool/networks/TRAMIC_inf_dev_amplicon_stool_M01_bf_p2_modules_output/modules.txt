@@ -1,0 +1,6 @@
+module_0	Haemophilus	Rothia
+module_1	Lachnoclostridium	[Clostridium]_innocuum_group
+module_2	Streptococcus	Staphylococcus
+module_3	Bacteroides	Parabacteroides
+module_4	Sutterella	Lactobacillus
+module_5	Escherichia-Shigella	Enterococcus

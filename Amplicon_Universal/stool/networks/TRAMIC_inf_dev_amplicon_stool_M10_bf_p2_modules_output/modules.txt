@@ -1,0 +1,9 @@
+module_0	Veillonella	Escherichia-Shigella	Lachnoclostridium
+module_1	Lachnospira	Granulicatella	Haemophilus
+module_2	Intestinibacter	Blautia	Romboutsia
+module_3	Phascolarctobacterium	[Ruminococcus]_torques_group
+module_4	Parabacteroides	Bacteroides
+module_5	Parasutterella	Streptococcus
+module_6	Eggerthella	Megasphaera
+module_7	Lactobacillus	Bifidobacterium
+module_8	Incertae_Sedis	Enterococcus

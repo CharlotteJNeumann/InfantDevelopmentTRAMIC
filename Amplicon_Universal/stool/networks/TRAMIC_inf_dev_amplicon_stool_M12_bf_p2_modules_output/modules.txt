@@ -1,0 +1,15 @@
+module_0	Haemophilus	Erysipelatoclostridium	Blautia
+module_1	Gemella	Granulicatella	Terrisporobacter
+module_2	Parabacteroides	Phascolarctobacterium	Lachnoclostridium
+module_3	Romboutsia	Intestinibacter	Clostridium_sensu_stricto_1
+module_4	Escherichia-Shigella	Veillonella	Streptococcus
+module_5	Lachnospira	Agathobacter	Roseburia
+module_6	Sellimonas	Anaeroglobus	Collinsella
+module_7	Enterococcus	Eggerthella	Bifidobacterium
+module_8	Faecalibacterium	[Eubacterium]_eligens_group
+module_9	Megasphaera	Butyricicoccus
+module_10	[Clostridium]_innocuum_group	Hungatella
+module_11	Coprobacillus	Anaerostipes
+module_12	Bacteroides	Sutterella
+module_13	[Ruminococcus]_torques_group	Fusicatenibacter
+module_14	[Eubacterium]_coprostanoligenes_group	Incertae_Sedis

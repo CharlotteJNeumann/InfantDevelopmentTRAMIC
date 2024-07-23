@@ -1,0 +1,5 @@
+module_0	Streptococcus	Rothia	Staphylococcus
+module_1	Erysipelatoclostridium	Lachnoclostridium
+module_2	Bacteroides	Parabacteroides
+module_3	Gemella	Haemophilus
+module_4	Bifidobacterium	Lactobacillus
