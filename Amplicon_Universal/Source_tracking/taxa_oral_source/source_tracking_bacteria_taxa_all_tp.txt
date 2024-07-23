@@ -1,0 +1,120 @@
+	genus		summe_all	M01	M02	M03	M04	M05	M06	M07	M08	M09	M10	M11	M12
+35ffcc3b809d667286737d79670b8de5	Bifidobacterium	Bifidobacterium_ASV_01	10556	79	8	0	9	9	3	5321	5119	4	0	2	2
+fd496fd32dc8c08ade2e8b6c9d8ee13d	Streptococcus	Streptococcus_ASV_02	5144	1536	545	203	201	220	186	450	268	334	551	317	333
+06f825b512d903b9230e1a55d87359ee	Streptococcus	Streptococcus_ASV_03	3293	328	448	464	447	456	450	410	70	50	50	20	100
+56bde454092279f47b556883d5909620	Streptococcus	Streptococcus_ASV_04	2953	134	544	340	733	501	253	216	146	38	19	0	29
+edc9e5c16e40aff1eadce6597940f08f	Streptococcus	Streptococcus_ASV_05	1665	415	367	168	393	137	0	47	0	0	73	42	23
+394eda29c886632f514dd94b58381186	Haemophilus	Haemophilus_ASV_06	1594	17	1	0	91	1	1	274	158	335	195	195	326
+65d43491988bfe557da4d86a5ba25dae	Staphylococcus	Staphylococcus_ASV_07	1353	1166	187	0	0	0	0	0	0	0	0	0	0
+945184b6386c192c0066e0a98a154780	unclassified_Enterobacteriaceae	unclassified_Enterobacteriaceae_ASV_08	656	26	628	0	1	0	1	0	0	0	0	0	0
+33ba975cdb88b5073a2355ffdf01e9cb	Bifidobacterium	Bifidobacterium_ASV_09	535	535	0	0	0	0	0	0	0	0	0	0	0
+c24e0e391aa836b5eae25567c7eb89ee	[Ruminococcus]_gnavus_group	[Ruminococcus]_gnavus_group_ASV_10	479	7	0	1	1	463	0	0	1	1	2	2	1
+1d49df56b83a383d8b998af9d148f52c	Clostridium_sensu_stricto_1	Clostridium_sensu_stricto_1_ASV_11	417	416	1	0	0	0	0	0	0	0	0	0	0
+ad9b44d88a18bbff3f5238c0c051e11b	Clostridium_sensu_stricto_1	Clostridium_sensu_stricto_1_ASV_12	342	0	0	0	338	2	0	0	1	1	0	0	0
+85c44c83eddc5d3028261a1000b7d0e1	Gemella	Gemella_ASV_13	155	50	57	8	0	10	10	20	0	0	0	0	0
+d46e2205f0c6ecf67b51f83d111c509c	Escherichia-Shigella	Escherichia-Shigella_ASV_14	75	37	2	5	0	6	5	4	11	2	1	1	1
+1902045fa7900495d421b8a8f308eb85	Rothia	Rothia_ASV_15	64	0	10	8	0	27	10	9	0	0	0	0	0
+ca9c66d47347c03d0343d6fe03ed8636	Haemophilus	Haemophilus_ASV_16	35	0	0	0	0	0	16	19	0	0	0	0	0
+c939ee112ba982665e012437dae05c1e	unclassified_Enterobacteriaceae	unclassified_Enterobacteriaceae_ASV_17	30	22	0	5	0	0	1	1	0	1	0	0	0
+923f521b9cf313f1f95c9367e09bbc1c	Veillonella	Veillonella_ASV_18	26	10	2	1	0	0	0	3	3	1	0	3	3
+315ca0a729f126b941ba111a16d4d97a	Bifidobacterium	Bifidobacterium_ASV_19	24	13	1	0	0	1	0	3	1	1	1	1	2
+9908fffab7ed4f3bec44cda2f5084d49	Enterococcus	Enterococcus_ASV_20	23	17	1	1	0	0	0	1	3	0	0	0	0
+99deb3c5ecb022ec05609ebd1112a557	Bacteroides	Bacteroides_ASV_21	19	9	0	0	0	1	0	0	5	1	1	0	2
+2c5e87b291147c04e1b8d1c808b1aee0	Bifidobacterium	Bifidobacterium_ASV_22	17	11	1	0	0	0	1	0	2	1	0	1	0
+9580aa8a52ec18a4e92e701cdb595faa	Clostridium_sensu_stricto_1	Clostridium_sensu_stricto_1_ASV_23	15	14	1	0	0	0	0	0	0	0	0	0	0
+7d135dfbf857c62673695ef24332b100	Rothia	Rothia_ASV_24	14	1	0	0	0	13	0	0	0	0	0	0	0
+09e996f449e880d1fd8f27d59e8d8b11	Lactobacillus	Lactobacillus_ASV_25	12	8	0	0	0	0	1	1	2	0	0	0	0
+5a6c87d6a4eb5e114959f6192f29b641	Bifidobacterium	Bifidobacterium_ASV_26	11	7	0	0	0	0	0	0	2	0	0	0	2
+d6eb0f6c5d5f37c7454c0ab49b7e3982	Staphylococcus	Staphylococcus_ASV_27	11	11	0	0	0	0	0	0	0	0	0	0	0
+21401b105dc53b367b8fdc0ec97a9f02	Sutterella	Sutterella_ASV_28	11	11	0	0	0	0	0	0	0	0	0	0	0
+8343cf4c26bb977e05e4d9c5125441ef	Parabacteroides	Parabacteroides_ASV_29	10	9	0	1	0	0	0	0	0	0	0	0	0
+c67445ed68d61f49e41b7bdd1de019fb	Lachnoclostridium	Lachnoclostridium_ASV_30	9	8	0	0	0	0	0	0	0	0	0	0	1
+2740cf2417c92847cc298cbd71dd1fcd	Veillonella		9	2	0	0	0	0	0	2	4	0	1	0	0
+eafd20ce1f25fbd8c737f0086f81c11b	Veillonella		8	7	0	0	0	0	0	0	1	0	0	0	0
+b5e0a6477e69e223d49eedc2c7c1b138	[Clostridium]_innocuum_group		7	7	0	0	0	0	0	0	0	0	0	0	0
+0df6c802966e8670279671824da4f10a	Lactobacillus		7	6	0	1	0	0	0	0	0	0	0	0	0
+1b8dec58597978264025b9eba656ffb5	Bacteroides		6	3	0	0	0	0	0	0	0	0	2	1	0
+d900eb33f6b4bc449aab64df16ae18b2	Bacteroides		5	5	0	0	0	0	0	0	0	0	0	0	0
+0ad2334ad30de68cbd3d6c42b1e06938	Lachnoclostridium		5	5	0	0	0	0	0	0	0	0	0	0	0
+7fb08fa9b7b2eef6a3db57d0de769227	Peptoniphilus		5	5	0	0	0	0	0	0	0	0	0	0	0
+7af6fc12809fdafab918881f836460f8	Tyzzerella		5	3	0	1	0	0	0	0	0	0	0	0	1
+8d35d777e6abf2644eb139cf26bf2cbc	Veillonella		5	5	0	0	0	0	0	0	0	0	0	0	0
+41cb13d06e5e72307ae7844cc94b2de2	Actinomyces		4	4	0	0	0	0	0	0	0	0	0	0	0
+569653b1659271a290facfcedd0de061	Enterococcus		4	1	0	0	0	0	0	1	2	0	0	0	0
+a443e786f67086749ef29ce0ab494c9e	Enterococcus		4	0	0	0	0	0	0	1	1	1	1	0	0
+a663a01aeb4dbb88bbe0a9840e8f64dc	Erysipelatoclostridium		4	0	1	1	0	0	0	0	0	1	0	0	1
+173c825a18291f2ba18b5e46d9db8408	Parabacteroides		4	2	0	0	0	0	0	0	0	2	0	0	0
+87ea76477e8468d4d76c3c1bc995f897	Staphylococcus		4	4	0	0	0	0	0	0	0	0	0	0	0
+eadba9902d6c7adb56aafd0cd1bbe76b	Streptococcus		4	3	1	0	0	0	0	0	0	0	0	0	0
+f3384f1f36a908bd09b3c265bac26f8c	unclassified_Pasteurellaceae		4	4	0	0	0	0	0	0	0	0	0	0	0
+cd9401a6bce4a63af516d06d2a843f9d	Veillonella		4	0	0	0	0	0	0	1	3	0	0	0	0
+d1a75593a480570277f05ec729b865de	[Ruminococcus]_gnavus_group		3	0	0	0	0	0	0	1	0	1	1	0	0
+dc41692600de807e3e76f265cdc14075	[Ruminococcus]_torques_group		3	0	0	0	0	0	0	1	2	0	0	0	0
+d2ed5fe0443294c72f4a4dd352e80e8c	Bacteroides		3	2	0	1	0	0	0	0	0	0	0	0	0
+151206cd8a297dcb1bd344ae264fe653	Bifidobacterium		3	1	0	0	0	0	0	0	0	1	0	0	1
+821130ba72e86c335c55c269f31db0d0	Clostridium_sensu_stricto_1		3	3	0	0	0	0	0	0	0	0	0	0	0
+8ba3f0c27ab7b514843076e746e5b46e	Clostridium_sensu_stricto_1		3	3	0	0	0	0	0	0	0	0	0	0	0
+0bb566f8b29dc11240b7ba54bf9ebbea	Faecalibacterium		3	0	0	0	0	0	0	0	3	0	0	0	0
+19a36b16af23deb4230ba84ab6f02f01	Lachnoclostridium		3	0	0	0	0	0	0	0	1	1	0	0	1
+29daaf94c6c9c41e5044aa321d18a306	Lactobacillus		3	0	0	1	0	0	0	0	1	0	1	0	0
+2b89ce136d3773b8a3b5650166760ae4	Lactobacillus		3	3	0	0	0	0	0	0	0	0	0	0	0
+2ef1e51ab1cf99a3c6417b05a060830e	Lactobacillus		3	3	0	0	0	0	0	0	0	0	0	0	0
+581a55014641e1cd55cdc272c0365a28	Lactobacillus		3	0	0	0	0	0	0	0	0	1	0	1	1
+04edaa963304c466674c30f9f9bb087e	Paeniclostridium		3	0	0	0	0	0	0	0	3	0	0	0	0
+46206609ca80309cad2b3040af792d04	Streptococcus		3	3	0	0	0	0	0	0	0	0	0	0	0
+3b94c19ef326eea0918e1c3d244c999c	unclassified_Enterobacterales		3	2	0	1	0	0	0	0	0	0	0	0	0
+4d72007c70f4abc0bf9e8fe8b826d07d	unclassified_Enterobacteriaceae		3	2	0	0	0	0	1	0	0	0	0	0	0
+333bbf9224442fc10cd497377d2b1d01	Bacteroides		2	0	0	0	0	1	0	0	0	0	0	0	1
+b4745d43d21df0ee0e8d7aeb0e44c674	Clostridium_sensu_stricto_1		2	0	0	0	0	0	0	0	0	0	2	0	0
+5fbc483f79cd97d3a7253931f37c33e8	Flavonifractor		2	0	0	0	0	0	0	1	1	0	0	0	0
+bd7bb5b11e9ccba1afbf45d9e0d5808a	Lactobacillus		2	2	0	0	0	0	0	0	0	0	0	0	0
+58bd181f757283f5a4ceebdf90ff6243	Sellimonas		2	0	0	0	0	0	0	0	0	0	0	1	1
+fd2eb1fe2266eed160a855f715f7c77e	Streptococcus		2	2	0	0	0	0	0	0	0	0	0	0	0
+2084f48082d0e7376174d0dbe6af5c82	Veillonella		2	2	0	0	0	0	0	0	0	0	0	0	0
+3bae00d865b43e800a6f297f958ac2de	Veillonella		2	1	0	0	0	0	0	0	1	0	0	0	0
+f02fd9ee0080b01bea5d41ed9f9568ac	Veillonella		2	1	0	0	1	0	0	0	0	0	0	0	0
+cd9ca840390c8c0d54da8c1a984f2b37	[Ruminococcus]_gnavus_group		1	1	0	0	0	0	0	0	0	0	0	0	0
+9e3226efaf559eb14a478f880462cb8a	[Ruminococcus]_torques_group		1	0	0	0	0	0	0	0	0	0	0	1	0
+a553a33230e324c88c51d9bfb08d062f	Actinomyces		1	1	0	0	0	0	0	0	0	0	0	0	0
+a814e18dc6c018749b8c0e8f314a63aa	Actinomyces		1	0	0	0	0	0	1	0	0	0	0	0	0
+9d5054752ed33d6a22bd0f96b5618b1c	Bacteroides		1	1	0	0	0	0	0	0	0	0	0	0	0
+df37b62e507e32409df4885c1ad2ce14	Bacteroides		1	0	0	0	0	0	0	0	0	1	0	0	0
+1ba2407961431f69843a890cea53f8d3	Bifidobacterium		1	0	0	0	0	0	0	0	1	0	0	0	0
+61e8588388ce05627683adb6fe72cb0f	Bifidobacterium		1	0	0	0	0	0	0	1	0	0	0	0	0
+62322d8f0c52d7c97ae5dafb19334a3f	Bifidobacterium		1	1	0	0	0	0	0	0	0	0	0	0	0
+9fea59e9a8b7f4d8d68f804396fe13ce	Bifidobacterium		1	0	0	0	0	0	0	0	1	0	0	0	0
+c1df75b5732336ae58bbcf0736be0636	Blautia		1	0	0	0	0	0	0	0	0	0	0	1	0
+9acb555d3c5dd77e9035a661e7ad1bb6	Clostridium_sensu_stricto_1		1	0	0	0	0	0	0	0	0	0	1	0	0
+db49c9326687071f8b4d0851a2833629	Clostridium_sensu_stricto_1		1	1	0	0	0	0	0	0	0	0	0	0	0
+dfba942f2d36cb6b7755f9c3b6d01ac9	Clostridium_sensu_stricto_1		1	0	0	0	0	0	1	0	0	0	0	0	0
+86cd044527a4e41b4c2cd5a0818e69de	Collinsella		1	1	0	0	0	0	0	0	0	0	0	0	0
+e5e2076556acf09b18e99c982a375e75	Enterococcus		1	0	0	0	1	0	0	0	0	0	0	0	0
+e9f900358bb9297e10b9fbb1321b1e6e	Erysipelatoclostridium		1	0	0	0	0	0	0	0	0	0	0	1	0
+8568edfdaba037a8c6845fdd3278f9a2	Escherichia-Shigella		1	1	0	0	0	0	0	0	0	0	0	0	0
+9c4d4b6d306824a963a9ea03bf5ed140	Escherichia-Shigella		1	0	0	0	0	0	0	1	0	0	0	0	0
+2d97401e7e4d05483a133b0251197e8a	Faecalibacterium		1	0	0	0	0	0	0	0	0	0	0	0	1
+bd45b10f13864b92fe50e828cb62c395	Faecalibacterium		1	0	0	0	0	0	0	0	0	0	0	0	1
+ce91e3de3976b4fde6a9666393ad44ca	Faecalibacterium		1	0	0	0	0	0	0	0	0	0	0	0	1
+22b3c70cdfb1714224e1bf8a6314bee9	Finegoldia		1	1	0	0	0	0	0	0	0	0	0	0	0
+47f770032218f91b352999ff1f663807	Lachnoclostridium		1	0	0	0	0	1	0	0	0	0	0	0	0
+3916a456bb0a3bfd02c15fd537ff5923	Megasphaera		1	0	0	0	0	0	0	0	0	0	0	1	0
+6d7f932303cb8ce3b13ec6d15b25682e	Megasphaera		1	0	0	0	0	1	0	0	0	0	0	0	0
+16ed06b7cd5762d8eaa4cbfd0d1e1880	Parabacteroides		1	1	0	0	0	0	0	0	0	0	0	0	0
+d8e7f9181e4d5a4a6453e9ca9996a43f	Parabacteroides		1	0	0	0	0	0	1	0	0	0	0	0	0
+1569f7ae988e26c905ab8fab427c8a0d	Phascolarctobacterium		1	1	0	0	0	0	0	0	0	0	0	0	0
+1739d8f19c1ac366a2138b64b03047a9	Rothia		1	1	0	0	0	0	0	0	0	0	0	0	0
+2721fd42d5373667f111c60faaf21eac	Rothia		1	1	0	0	0	0	0	0	0	0	0	0	0
+3db80fc0b97d3daef63917e652004908	Streptococcus		1	0	0	0	1	0	0	0	0	0	0	0	0
+9fec7bdd6bd88e710bd69b15692e54a0	Streptococcus		1	0	0	0	0	0	1	0	0	0	0	0	0
+4ca30a8de743724c9b6a36cd55a7e2ec	Sutterella		1	1	0	0	0	0	0	0	0	0	0	0	0
+4552af3e905206840cf8b67bcaf2693f	unclassified_Enterobacteriaceae		1	0	0	0	0	0	1	0	0	0	0	0	0
+4cbfff144d4e7a4e0f4619ed505be070	unclassified_Enterobacteriaceae		1	0	0	0	1	0	0	0	0	0	0	0	0
+55e8fd9e2a3868ef69575fcb459fc7c5	unclassified_Lachnospiraceae		1	1	0	0	0	0	0	0	0	0	0	0	0
+a0c5ddef9459b3e5322d7e79cacbe65b	#NV		1	0	0	0	0	0	0	0	0	0	0	1	0
+b1f85d9d7f7cc539c1e825688d11c3a1	#NV		1	0	0	0	0	0	0	0	0	0	0	1	0
+															
+															
+															
+															
+															
+													1		
