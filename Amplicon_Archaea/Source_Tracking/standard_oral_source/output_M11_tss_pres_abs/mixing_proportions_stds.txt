@@ -1,0 +1,7 @@
+SampleID	Oral	Unknown
+A_i14_S_M11	0.0	0.0
+A_i22_S_M11	0.0	0.0
+A_i11_S_M11	0.0	0.0
+A_i03_S_M11	0.0	0.0
+A_i07_S_M11	0.0	0.0
+A_i32_S_M11	0.0	0.0
