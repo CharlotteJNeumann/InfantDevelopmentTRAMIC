@@ -4,7 +4,7 @@ This is a repository containing background data for the TRAMIC infant developmen
 
 The manuscripts is available as a preprint on BioRxiv: "First-Year Dynamics of the Anaerobic Microbiome and Archaeome in Infants’ Oral and Gastrointestinal Systems" Neumann et al 2024 https://www.biorxiv.org/content/10.1101/2024.07.24.604926v1
 
-Additionally, the mansucript is under review at mSystems at the moment.
+Additionally, the manuscript is under review at mSystems at the moment.
 
 
 Briefly, the oral and fecal microbiomes of infants were analyzed throughout their first year of life.
